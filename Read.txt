@@ -1,0 +1,1 @@
+clicking on add to cart button, increases count of cart by 1 disables add to cart button and enables remove from cart button, clicking on remove from cart button, decreases the cound of cart by 1, enables add to cart button and disables remove from cart button
